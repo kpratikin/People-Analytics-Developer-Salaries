@@ -2,10 +2,10 @@
 <br><b>Objective:</b> Identify important parameters that will help a developer to get salary higher in their respective country?
 <br>
 
-<b> Machine Learning Methodologies Used </b>- Clustering (K-Means), Decision Tree
+<b> Machine Learning Methodologies Used </b>- Clustering (K-Means), Decision Tree.
   <br>
 
-<b>Technology:</b> Python: Numpy, Pandas, Scikit-Learn and Seborn librarirs
+<b>Technology:</b> Python: Numpy, Pandas, Scikit-Learn and Seborn libraries.
   <br>
 
 <b>Dataset:</b><br>

@@ -1,10 +1,14 @@
 # People Analytics - Developer Salaries
 <br><b>Objective:</b> Identify important parameters that will help a developer to get salary higher in their respective country?
 <br>
+
 <b> Machine Learning Methodologies Used </b>- Clustering (K-Means), Decision Tree
   <br>
-  <b>Technology:</b> Python: Numpy, Pandas, Scikit-Learn and Seborn librarirs
+
+<b>Technology:</b> 
+<br>Python: Numpy, Pandas, Scikit-Learn and Seborn librarirs
   <br>
+
 <b>Dataset:</b><br>
 In order to come up with the solution. We have choosen 'Stack Overflow 2018 Developer Survey'. Each year, Stack Overflow asks the developer community about everything from their favorite technologies, salaries to their job preferences. As 'Stack Overflow' is widely used by the developers, this dataset is most suitable to analyse salaries across various parameters.<br>
 Datset consists of 98,855 responses in 129 columns. Each row represents a survey response by a developers. Though the dataset contains lots of columns, we are interested in the below columns -
@@ -26,9 +30,9 @@ Datset consists of 98,855 responses in 129 columns. Each row represents a survey
   
   <b>Conclusion:</b>
 <br>  
-It is generally believed that to be successfull in Software industry, one's degree and work experience does not matter. The only thing matter is his/her vast knowledge about various languages, databases, frameworks and platforms knowledge (i.e. technical knowledge and acumen). However, data does not show the same story. <br>
+Generally, It is believed that to be successfull in Software industry, one's degree and work experience does not matter. The only thing matter is his/her vast knowledge about various languages, databases, frameworks and platforms (i.e. technical knowledge and acumen). However, data does not show the same story. <br>
  
-As first part of our analysis, data shows us that developer's salary is most dependent on higher education and experience (same old parameters the we know). Now the question arises- Is it beneficial for all the developers? Do highly experiences professional go for higher education? If yes, when? If no, what is the experience limit after which higher education does not matter.
+As first part of our analysis, data shows us that developer's salary is most dependent on higher education and experience (same old parameters the we know). Now the question arises- Is it beneficial to all the developers in same way? Shall highly experienced professional go for higher education? If yes, when? If no, what is the experience limit after which higher education does not matter.
 <br>
 <p align="center"><img src="https://github.com/kpratikin/developer_salary/blob/master/Conclusion_Sns.PNG">
  <br>Figure: Salary versus Coding Experience and higher education
@@ -36,4 +40,4 @@ As first part of our analysis, data shows us that developer's salary is most dep
 <br>
 These questions are answered in our second part of analysis and following are the conslusions of the same:<br>
 <ul><li>For freshers, if you do master's you can earn slightly higher than your colleagues at the start of your career. However, in long run your experience determines your salaries.
-<li>For working professional with more than <b>9 years<.b> of experience, there is no advantage in terms of salaries. So, for these people doing master's is not desirable in orde to increase their salary.
+<li>For working professional with more than <b>9 years<.b> of experience, there is no advantage in terms of salaries. So, for these people doing master's is not desirable (if one is doing master for sake of higher salary).

@@ -39,4 +39,4 @@ As first part of our analysis, data shows us that developer's salary is most dep
 <br>
 These questions are answered in our second part of analysis and following are the conslusions of the same:<br>
 <ul><li>For freshers, if you do master's you can earn slightly higher than your colleagues at the start of your career. However, in long run your experience determines your salaries.
-<li>For working professional with more than <b>9 years<.b> of experience, there is no advantage in terms of salaries. So, for these people doing master's is not desirable (if one is doing master for sake of higher salary).
+<li>For working professional with more than <b>9 years</b> of experience, there is no advantage in terms of salaries. So, for these people doing master's is not desirable (from salary point of view).

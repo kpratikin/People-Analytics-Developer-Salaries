@@ -5,12 +5,11 @@
 <b> Machine Learning Methodologies Used </b>- Clustering (K-Means), Decision Tree
   <br>
 
-<b>Technology:</b> 
-<br>Python: Numpy, Pandas, Scikit-Learn and Seborn librarirs
+<b>Technology:</b> Python: Numpy, Pandas, Scikit-Learn and Seborn librarirs
   <br>
 
 <b>Dataset:</b><br>
-In order to come up with the solution. We have choosen 'Stack Overflow 2018 Developer Survey'. Each year, Stack Overflow asks the developer community about everything from their favorite technologies, salaries to their job preferences. As 'Stack Overflow' is widely used by the developers, this dataset is most suitable to analyse salaries across various parameters.<br>
+In order to come up with the solution. We have choosen <a href='https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey'>'Stack Overflow 2018 Developer Survey'</a> dataset. Each year, Stack Overflow asks the developer community about everything from their favorite technologies, salaries to their job preferences. As 'Stack Overflow' is widely used by the developers, this dataset is most suitable to analyse salaries across various parameters.<br>
 Datset consists of 98,855 responses in 129 columns. Each row represents a survey response by a developers. Though the dataset contains lots of columns, we are interested in the below columns -
 <ul><li>Converted Salary - Annual Salary in $ (for each developer). 
 <li>Education - Education level of the developer who filled this survey. 

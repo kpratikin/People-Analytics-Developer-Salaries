@@ -1,4 +1,4 @@
-"# People Analytics - Developer Salaries " 
+# People Analytics - Developer Salaries
 <br><b>Objective:</b> Identify most important parameters that will help a developer to get salary higher than their country's average salary?
 <br>
 <b>Dataset:</b>
@@ -25,14 +25,13 @@ Datset consists of 98,855 responses in 129 columns. Each row represents a survey
   <b>Technology:</b> Python: Numpy, Pandas, Scikit-Learn and Seborn librarirs
   <br>
   
-  <b>Conclusion:</b> There are two ways in order to get higher salary
-  <ol><li> Higher education i.e. do Master's and PHD's
-  <li> Gain more experience
-   </ol>
+  <b>Conclusion:</b>
+   <p align="center"><img src="https://github.com/kpratikin/developer_salary/blob/master/Conclusion_Sns.PNG">
+ <br>Figure: Salary versus Coding Experience and higher education
+ </p>
+ 
 <br>   
 However, it depends on individual developer situation. Following are the suggestions:<br>
 <ul><li>For freshers, if you do master's you can earn slightly higher than your colleagues at the start of your career. However, in long run your experience determines your salaries.
-<li>For working professional with more than 9 years of experience, there is no advantage in terms of salaries. So, for these people doing master's is not desirable in orde to increase their salary.
+<li>For working professional with more than <b>9 years<.b> of experience, there is no advantage in terms of salaries. So, for these people doing master's is not desirable in orde to increase their salary.
    
-   
-  

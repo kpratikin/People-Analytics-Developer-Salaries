@@ -1,5 +1,5 @@
 # People Analytics - Developer Salaries
-<br><b>Objective:</b> Identify important parameters that will help a developer to get salary higher than their country's average salary?
+<br><b>Objective:</b> Identify important parameters that will help a developer to get salary higher in their respective country?
 <br>
 <b> Machine Learning Methodologies Used </b>- Clustering (K-Means), Decision Tree
   <br>

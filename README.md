@@ -1,5 +1,5 @@
 # People Analytics - Developer Salaries
-<br><b>Objective:</b> What kind of developers are getting higher pay? and Identify those important parameters?
+<br><b>Objective:</b> What kind of developers are getting higher pay? and Identify the most important parameters which impacts salary?
 <br>
 
 <b> Machine Learning Methodologies Used </b>- Clustering (K-Means), Decision Tree.
